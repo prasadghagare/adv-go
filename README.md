@@ -1,2 +1,2 @@
 # adv-go
-Concuurecy with Golang
+Concurrecy with Golang
